@@ -34,8 +34,11 @@ const isEmail = require('./regexp/isEmail')
 const isIdCard = require('./regexp/isIdCard')
 const isPhoneNum = require('./regexp/isPhoneNum')
 const isUrl = require('./regexp/isUrl')
+const noSpecial=require('./regExp/noSpecial')
+const pswdInclude=require('./regExp/pswdInclude')
 
 const digitUppercase = require('./string/digitUppercase')
+const deleteLastSelcChar=require('./string/deleteLastSelcChar')
 
 const isSupportWebP = require('./support/isSupportWebP')
 
@@ -80,8 +83,11 @@ module.exports = {
     isIdCard,
     isPhoneNum,
     isUrl,
+    noSpecial,
+    pswdInclude,
 
     digitUppercase,
+    deleteLastSelcChar,
 
     isSupportWebP,
 

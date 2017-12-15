@@ -2,7 +2,7 @@
 
 [![Build Status](https://travis-ci.org/proYang/outils.svg?branch=master) ![LICENSE MIT](https://img.shields.io/npm/l/express.svg)](https://www.npmjs.com/package/outils) 
 
- 
+
 前端业务代码工具库  
 
 > 目的：高效率完成前端业务代码
@@ -88,6 +88,8 @@ const OS = getOS()
 #### &emsp;&emsp;[isIdCard][isIdCard]&emsp;&emsp;判断是否为身份证号
 #### &emsp;&emsp;[isPhoneNum][isPhoneNum]&emsp;&emsp;判断是否为手机号  
 #### &emsp;&emsp;[isUrl][isUrl]&emsp;&emsp;判断是否为URL地址
+
+​	
 
 ### String  
 #### &emsp;&emsp;[digitUppercase][digitUppercase]&emsp;&emsp;现金额转大写
