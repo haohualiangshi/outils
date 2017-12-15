@@ -98,7 +98,7 @@ const OS = getOS()
 ### String  
 #### &emsp;&emsp;[digitUppercase][digitUppercase]&emsp;&emsp;现金额转大写
 
-####        [deleteLastSelcChar][https://github.com/haohualiangshi/outils/blob/master/deleteLastSelcChar.js]判断选中最后一位是否是要选中的字符；是就删除并返回删除后的字符串
+####        [deleteLastSelcChar](https://github.com/haohualiangshi/outils/blob/master/deleteLastSelcChar.js) 判断选中最后一位是否是要选中的字符；是就删除并返回删除后的字符串
 
 ### Support  
 #### &emsp;&emsp;[isSupportWebP][isSupportWebP]&emsp;&emsp;判断浏览器是否支持webP格式图片
