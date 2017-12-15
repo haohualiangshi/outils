@@ -89,16 +89,16 @@ const OS = getOS()
 #### &emsp;&emsp;[isPhoneNum][isPhoneNum]&emsp;&emsp;判断是否为手机号  
 #### &emsp;&emsp;[isUrl][isUrl]&emsp;&emsp;判断是否为URL地址
 
-####       &emsp;**[noSpecial](https://github.com/haohualiangshi/outils/blob/master/noSpecial.js)**    判断是否包含除_以外的特殊字符
+#### &emsp;&emsp;**[noSpecial](https://github.com/haohualiangshi/outils/blob/master/noSpecial.js)**    判断是否包含除_以外的特殊字符
 
-####       &emsp;[pswdInclude](https://github.com/haohualiangshi/outils/blob/master/pswdInclude.js)  验证密码由6-18位数字和字母构成
+#### &emsp;&emsp;[pswdInclude](https://github.com/haohualiangshi/outils/blob/master/pswdInclude.js)  验证密码由6-18位数字和字母构成
 
 
 
 ### String  
 #### &emsp;&emsp;[digitUppercase][digitUppercase]&emsp;&emsp;现金额转大写
 
-####        &emsp;[deleteLastSelcChar](https://github.com/haohualiangshi/outils/blob/master/deleteLastSelcChar.js) 判断选中最后一位是否是要选中的字符；是就删除并返回删除后的字符串
+#### &emsp;&emsp;[deleteLastSelcChar](https://github.com/haohualiangshi/outils/blob/master/deleteLastSelcChar.js) 判断选中最后一位是否是要选中的字符；是就删除并返回删除后的字符串
 
 ### Support  
 #### &emsp;&emsp;[isSupportWebP][isSupportWebP]&emsp;&emsp;判断浏览器是否支持webP格式图片
