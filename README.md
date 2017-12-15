@@ -89,9 +89,9 @@ const OS = getOS()
 #### &emsp;&emsp;[isPhoneNum][isPhoneNum]&emsp;&emsp;判断是否为手机号  
 #### &emsp;&emsp;[isUrl][isUrl]&emsp;&emsp;判断是否为URL地址
 
-####        **[noSpecial][https://github.com/haohualiangshi/outils/blob/master/noSpecial.js]**    判断是否包含除_以外的特殊字符
+####    	    **[noSpecial](https://github.com/haohualiangshi/outils/blob/master/noSpecial.js)**    判断是否包含除_以外的特殊字符
 
-####       [pswdInclude][https://github.com/haohualiangshi/outils/blob/master/pswdInclude.js]  验证密码由6-18位数字和字母构成
+####       [pswdInclude](https://github.com/haohualiangshi/outils/blob/master/pswdInclude.js)  验证密码由6-18位数字和字母构成
 
 
 
