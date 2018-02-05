@@ -48,6 +48,8 @@ const formatRemainTime = require('./time/formatRemainTime')
 const parseQueryString = require('./url/parseQueryString')
 const stringfyQueryString = require('./url/stringfyQueryString')
 
+const rem=require('./rem/rem')
+
 
 module.exports = {
     arrayEqual,
@@ -95,4 +97,5 @@ module.exports = {
     formatRemainTime,
     parseQueryString,
     stringfyQueryString,
+    rem
 }

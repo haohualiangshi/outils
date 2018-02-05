@@ -112,6 +112,12 @@ const OS = getOS()
 #### &emsp;&emsp;[parseQueryString][parseQueryString]&emsp;&emsp;url参数转对象
 #### &emsp;&emsp;[stringfyQueryString][stringfyQueryString]&emsp;&emsp;对象序列化
 
+### REM
+
+#### &emsp;&emsp; [REM][REM]   以640Px的基准图设置基数200px为底的rem适配屏幕
+
+
+
 [arrayEqual]:https://github.com/proYang/outils/blob/master/src/array/arrayEqual.js
 
 [addClass]:https://github.com/proYang/outils/blob/master/src/class/addClass.js
@@ -158,6 +164,7 @@ const OS = getOS()
 [deleteLastSelcChar]:https://github.com/haohualiangshi/outils/blob/master/deleteLastSelcChar.js
 [noSpecial]:https://github.com/haohualiangshi/outils/blob/master/noSpecial.js
 [pswdInclude]:https://github.com/haohualiangshi/outils/blob/master/pswdInclude.js
+[REM]:https://github.com/haohualiangshi/outils/blob/master/rem.js
 
 
 
