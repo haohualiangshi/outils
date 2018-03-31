@@ -79,6 +79,8 @@ const OS = getOS()
 #### &emsp;&emsp;[deepClone][deepClone]&emsp;&emsp;深拷贝，支持常见类型
 #### &emsp;&emsp;[isEmptyObject][isEmptyObject]&emsp;&emsp;判断Object是否为空
 
+#### &emsp; &emsp; [fetchObjFields][fetchObjFields] &emsp; 返回指定key值得对象
+
 ### Random  
 #### &emsp;&emsp;[randomColor][randomColor] &emsp;&emsp;随机生成颜色
 #### &emsp;&emsp;[randomNum][randomNum]&emsp;&emsp;生成指定范围随机数 
@@ -115,6 +117,10 @@ const OS = getOS()
 ### REM
 
 #### &emsp;&emsp; [REM][REM]   以640Px的基准图设置基数200px为底的rem适配屏幕
+
+### FormatFloat
+
+#### [ formatFloat][formatFloat]    将浮点数数字返回指定位数的格式
 
 
 

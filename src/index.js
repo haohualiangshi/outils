@@ -26,6 +26,7 @@ const getKeyName = require('./keycode/getKeyName')
 
 const deepClone = require('./object/deepClone')
 const isEmptyObject = require('./object/isEmptyObject')
+const fetchObjFields=require('./object/fetchObjFields')
 
 const randomColor = require('./random/randomColor')
 const randomNum = require('./random/randomNum')
@@ -50,6 +51,7 @@ const stringfyQueryString = require('./url/stringfyQueryString')
 
 const rem=require('./rem/rem')
 
+const formatFloat=require("./formatFloat/formatFloat");
 
 module.exports = {
     arrayEqual,
@@ -77,6 +79,7 @@ module.exports = {
 
     deepClone,
     isEmptyObject,
+    fetchObjFields,
 
     randomColor,
     randomNum,
@@ -97,5 +100,6 @@ module.exports = {
     formatRemainTime,
     parseQueryString,
     stringfyQueryString,
-    rem
+    rem,
+    formatFloat
 }
