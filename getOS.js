@@ -15,7 +15,6 @@ function getOS() {
     if (/win/i.test(appVersion) && /phone/i.test(userAgent)) {return 'windowsPhone'}else{
     	return undefined
     };
-
 }
 
 module.exports = getOS;

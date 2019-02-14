@@ -1,3 +1,4 @@
+
 describe('Array API:', function () {
     describe('#arrayEqual()', function () {
         it(`outils.arrayEqual([0, 2, 3], [1, 2, 3]) should return false`, function () {
@@ -13,9 +14,10 @@ describe('Array API:', function () {
     });
 
     describe('#RemoveMulIndex()',function(){
-        it('outils.removeMulIndex([1,2,3,4],[2,3]) should return [1, 2]',function(){
-            assert(outils.arrayEqual(outils.removeMulIndex([1,2,3,4],[2,3]) ,[1, 2]))
+        it('outils.RemoveMulIndex([1,2,3,4],[2,3]) should return [1, 2]',function(){
+            assert(outils.arrayEqual(outils.RemoveMulIndex([1,2,3,4],[2,3]) ,[1, 2]))
             // console.log(outils.removeMulIndex([1,2,3,4],[2,3]))
         })
     })
+
 });
