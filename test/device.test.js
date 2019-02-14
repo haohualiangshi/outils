@@ -7,6 +7,7 @@ describe('Device API:', function () {
 
     describe('#getOS()', function () {
         it(`outils.getOS() should return "windows"`, function () {
+            console.log("#getos return " + outils.getOS());
             assert(outils.getOS() === 'windows')
         });
     });

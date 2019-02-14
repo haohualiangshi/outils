@@ -2,6 +2,7 @@
  * @desc webpack打包入口文件
  */
 const arrayEqual = require('./array/arrayEqual')
+const removeMulIndex = require("./array/RemoveMulIndex.js")
 
 const addClass = require('./class/addClass')
 const hasClass = require('./class/hasClass')
@@ -51,11 +52,11 @@ const stringfyQueryString = require('./url/stringfyQueryString')
 
 const rem=require('./rem/rem')
 
-const formatFloat=require("./formatFloat/formatFloat");
+const formatFloat=require("./Format/FormatFloat");
 
 module.exports = {
     arrayEqual,
-
+    removeMulIndex,
     addClass,
     hasClass,
     removeClass,

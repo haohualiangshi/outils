@@ -11,4 +11,11 @@ describe('Array API:', function () {
             assert(outils.arrayEqual(arr, arr))
         });
     });
+
+    describe('#RemoveMulIndex()',function(){
+        it('outils.removeMulIndex([1,2,3,4],[2,3]) should return [1, 2]',function(){
+            assert(outils.arrayEqual(outils.removeMulIndex([1,2,3,4],[2,3]) ,[1, 2]))
+            // console.log(outils.removeMulIndex([1,2,3,4],[2,3]))
+        })
+    })
 });
