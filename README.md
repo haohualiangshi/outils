@@ -26,7 +26,7 @@ const OS = getOS()
 ### Array  
 #### &emsp;&emsp;[arrayEqual][arrayEqual]&emsp;&emsp;判断两个数组是否相等 
 
-#### 	[RemoveMulIndex][https://github.com/proYang/outils/blob/master/src/array/RemoveMulIndex.js] 	删除指定索引值的下标，可传入多个下标值数组
+#### 	[RemoveMulIndex][RemoveMulIndex] 	删除指定索引值的下标，可传入多个下标值数组
 
 ### Class
 #### &emsp;&emsp;[addClass][addClass]&emsp;&emsp;为元素添加class  
