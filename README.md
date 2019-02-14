@@ -100,7 +100,7 @@ const OS = getOS()
 
 ### Format
 
-#### 	[FormatFloat][FormatFloat]	返回指定位数的小数形式
+#### 	&emsp;&emsp;[FormatFloat][FormatFloat]	返回指定位数的小数形式，默认保留两位
 
 
 
