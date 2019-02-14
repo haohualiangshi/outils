@@ -98,9 +98,9 @@ const OS = getOS()
 
 #### &emsp;&emsp; [REM][REM]   以640Px的基准图设置基数200px为底的rem适配屏幕
 
-### FormatFloat
+### Format
 
-#### [ formatFloat][formatFloat]    将浮点数数字返回指定位数的格式
+#### 	[FormatFloat][FormatFloat]	返回指定位数的小数形式
 
 
 
@@ -151,6 +151,7 @@ const OS = getOS()
 [noSpecial]:https://github.com/haohualiangshi/outils/blob/master/noSpecial.js
 [pswdInclude]:https://github.com/haohualiangshi/outils/blob/master/pswdInclude.js
 [REM]:https://github.com/haohualiangshi/outils/blob/master/rem.js
+[FormatFloat]: https://github.com/haohualiangshi/outils/blob/master/src/Format/FormatFloat.js
 
 
 
