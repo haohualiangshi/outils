@@ -12,28 +12,6 @@
 ## 安装使用
 
 1. 直接下载`min`目录下的[outils.min.js](https://github.com/proYang/outils/blob/master/min/outils.min.js)使用，支持UMD通用模块规范  
-2. 使用npm安装
-
-### 浏览器:
-``` html
-  <script src="outils.min.js"></script>
-  <script>
-      var OS = outils.getOS()
-  </script>
-```
-
-### npm:
-``` bash
-$ npm install --save-dev outils
-```
-
-webpack、RequireJS、SeaJS等
-
-``` javascript
-// 完整引入
-const outils = require('outils')
-const OS = outils.getOS()
-```
 
 **推荐使用方法**  
 
@@ -47,6 +25,8 @@ const OS = getOS()
 
 ### Array  
 #### &emsp;&emsp;[arrayEqual][arrayEqual]&emsp;&emsp;判断两个数组是否相等 
+
+#### 	[RemoveMulIndex][https://github.com/proYang/outils/blob/master/src/array/RemoveMulIndex.js] 	删除指定索引值的下标，可传入多个下标值数组
 
 ### Class
 #### &emsp;&emsp;[addClass][addClass]&emsp;&emsp;为元素添加class  
@@ -125,7 +105,7 @@ const OS = getOS()
 
 
 [arrayEqual]:https://github.com/proYang/outils/blob/master/src/array/arrayEqual.js
-
+[RemoveMulIndex]: https://github.com/proYang/outils/blob/master/src/array/RemoveMulIndex.js
 [addClass]:https://github.com/proYang/outils/blob/master/src/class/addClass.js
 [hasClass]:https://github.com/proYang/outils/blob/master/src/class/hasClass.js
 [removeClass]:https://github.com/proYang/outils/blob/master/src/class/removeClass.js
