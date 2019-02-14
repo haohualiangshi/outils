@@ -11,7 +11,7 @@
 
 ## 安装使用
 
-1. 直接下载`min`目录下的[outils.min.js](https://github.com/proYang/outils/blob/master/min/outils.min.js)使用，支持UMD通用模块规范  
+1. 直接下载`min`目录下的[outils.min.js](https://github.com/haohualiangshi/outils/blob/master/min/outils.min.js)使用，支持UMD通用模块规范  
 
 **推荐使用方法**  
 
@@ -104,49 +104,49 @@ const OS = getOS()
 
 
 
-[arrayEqual]:https://github.com/proYang/outils/blob/master/src/array/arrayEqual.js
-[RemoveMulIndex]: https://github.com/proYang/outils/blob/master/src/array/RemoveMulIndex.js
-[addClass]:https://github.com/proYang/outils/blob/master/src/class/addClass.js
-[hasClass]:https://github.com/proYang/outils/blob/master/src/class/hasClass.js
-[removeClass]:https://github.com/proYang/outils/blob/master/src/class/removeClass.js
+[arrayEqual]:https://github.com/haohualiangshi/outils/blob/master/src/array/arrayEqual.js
+[RemoveMulIndex]: https://github.com/haohualiangshi/outils/blob/master/src/array/RemoveMulIndex.js
+[addClass]:https://github.com/haohualiangshi/outils/blob/master/src/class/addClass.js
+[hasClass]:https://github.com/haohualiangshi/outils/blob/master/src/class/hasClass.js
+[removeClass]:https://github.com/haohualiangshi/outils/blob/master/src/class/removeClass.js
 
-[getCookie]:https://github.com/proYang/outils/blob/master/src/cookie/getCookie.js
-[removeCookie]:https://github.com/proYang/outils/blob/master/src/cookie/removeCookie.js
-[setCookie]:https://github.com/proYang/outils/blob/master/src/cookie/setCookie.js
+[getCookie]:https://github.com/haohualiangshi/outils/blob/master/src/cookie/getCookie.js
+[removeCookie]:https://github.com/haohualiangshi/outils/blob/master/src/cookie/removeCookie.js
+[setCookie]:https://github.com/haohualiangshi/outils/blob/master/src/cookie/setCookie.js
 
-[getExplore]:https://github.com/proYang/outils/blob/master/src/device/getExplore.js
-[getOS]:https://github.com/proYang/outils/blob/master/src/device/getOS.js
+[getExplore]:https://github.com/haohualiangshi/outils/blob/master/src/device/getExplore.js
+[getOS]:https://github.com/haohualiangshi/outils/blob/master/src/device/getOS.js
 
-[getScrollTop]:https://github.com/proYang/outils/blob/master/src/dom/getScrollTop.js
-[offset]:https://github.com/proYang/outils/blob/master/src/dom/offset.js
-[scrollTo]:https://github.com/proYang/outils/blob/master/src/dom/scrollTo.js
-[setScrollTop]:https://github.com/proYang/outils/blob/master/src/dom/setScrollTop.js
+[getScrollTop]:https://github.com/haohualiangshi/outils/blob/master/src/dom/getScrollTop.js
+[offset]:https://github.com/haohualiangshi/outils/blob/master/src/dom/offset.js
+[scrollTo]:https://github.com/haohualiangshi/outils/blob/master/src/dom/scrollTo.js
+[setScrollTop]:https://github.com/haohualiangshi/outils/blob/master/src/dom/setScrollTop.js
 
-[debounce]:https://github.com/proYang/outils/blob/master/src/function/debounce.js
-[throttle]:https://github.com/proYang/outils/blob/master/src/function/throttle.js
+[debounce]:https://github.com/haohualiangshi/outils/blob/master/src/function/debounce.js
+[throttle]:https://github.com/haohualiangshi/outils/blob/master/src/function/throttle.js
 
-[getKeyName]:https://github.com/proYang/outils/blob/master/src/keycode/getKeyName.js
+[getKeyName]:https://github.com/haohualiangshi/outils/blob/master/src/keycode/getKeyName.js
 
-[deepClone]:https://github.com/proYang/outils/blob/master/src/object/deepClone.js
-[isEmptyObject]:https://github.com/proYang/outils/blob/master/src/object/isEmptyObject.js
+[deepClone]:https://github.com/haohualiangshi/outils/blob/master/src/object/deepClone.js
+[isEmptyObject]:https://github.com/haohualiangshi/outils/blob/master/src/object/isEmptyObject.js
 
-[randomColor]:https://github.com/proYang/outils/blob/master/src/random/randomColor.js
-[randomNum]:https://github.com/proYang/outils/blob/master/src/random/randomNum.js
+[randomColor]:https://github.com/haohualiangshi/outils/blob/master/src/random/randomColor.js
+[randomNum]:https://github.com/haohualiangshi/outils/blob/master/src/random/randomNum.js
 
-[isEmail]:https://github.com/proYang/outils/blob/master/src/regexp/isEmail.js
-[isIdCard]:https://github.com/proYang/outils/blob/master/src/regexp/isIdCard.js
-[isPhoneNum]:https://github.com/proYang/outils/blob/master/src/regexp/isPhoneNum.js
-[isUrl]:https://github.com/proYang/outils/blob/master/src/regexp/isUrl.js
+[isEmail]:https://github.com/haohualiangshi/outils/blob/master/src/regexp/isEmail.js
+[isIdCard]:https://github.com/haohualiangshi/outils/blob/master/src/regexp/isIdCard.js
+[isPhoneNum]:https://github.com/haohualiangshi/outils/blob/master/src/regexp/isPhoneNum.js
+[isUrl]:https://github.com/haohualiangshi/outils/blob/master/src/regexp/isUrl.js
 
-[digitUppercase]:https://github.com/proYang/outils/blob/master/src/string/digitUppercase.js
+[digitUppercase]:https://github.com/haohualiangshi/outils/blob/master/src/string/digitUppercase.js
 
-[isSupportWebP]:https://github.com/proYang/outils/blob/master/src/support/isSupportWebP.js
+[isSupportWebP]:https://github.com/haohualiangshi/outils/blob/master/src/support/isSupportWebP.js
 
-[formatPassTime]:https://github.com/proYang/outils/blob/master/src/time/formatPassTime.js
-[formatRemainTime]:https://github.com/proYang/outils/blob/master/src/time/formatRemainTime.js
+[formatPassTime]:https://github.com/haohualiangshi/outils/blob/master/src/time/formatPassTime.js
+[formatRemainTime]:https://github.com/haohualiangshi/outils/blob/master/src/time/formatRemainTime.js
 
-[parseQueryString]:https://github.com/proYang/outils/blob/master/src/url/parseQueryString.js
-[stringfyQueryString]:https://github.com/proYang/outils/blob/master/src/url/stringfyQueryString.js
+[parseQueryString]:https://github.com/haohualiangshi/outils/blob/master/src/url/parseQueryString.js
+[stringfyQueryString]:https://github.com/haohualiangshi/outils/blob/master/src/url/stringfyQueryString.js
 [deleteLastSelcChar]:https://github.com/haohualiangshi/outils/blob/master/deleteLastSelcChar.js
 [noSpecial]:https://github.com/haohualiangshi/outils/blob/master/noSpecial.js
 [pswdInclude]:https://github.com/haohualiangshi/outils/blob/master/pswdInclude.js
