@@ -129,9 +129,11 @@ const OS = getOS()
 
 [deepClone]:https://github.com/haohualiangshi/outils/blob/master/src/object/deepClone.js
 [isEmptyObject]:https://github.com/haohualiangshi/outils/blob/master/src/object/isEmptyObject.js
+[fetchObjFields]:https://github.com/haohualiangshi/outils/blob/master/src/object/fetchObjFields.js
 
 [randomColor]:https://github.com/haohualiangshi/outils/blob/master/src/random/randomColor.js
 [randomNum]:https://github.com/haohualiangshi/outils/blob/master/src/random/randomNum.js
+
 
 [isEmail]:https://github.com/haohualiangshi/outils/blob/master/src/regexp/isEmail.js
 [isIdCard]:https://github.com/haohualiangshi/outils/blob/master/src/regexp/isIdCard.js
