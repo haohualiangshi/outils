@@ -11,5 +11,11 @@ describe('Random API:', function () {
         it(`outils.digitUppercase(-235423545) === '欠贰亿叁仟伍佰肆拾贰万叁仟伍佰肆拾伍元整' should return true`, function () {
             assert(outils.digitUppercase(-235423545) === "欠贰亿叁仟伍佰肆拾贰万叁仟伍佰肆拾伍元整")
         });
+        it('outils.removeStartSpaceAndEnd(" 删除左右空格 ") === "删除左右空格" should return true', function () {
+            assert(outils.removeStartSpaceAndEnd(" 删除左右空格 ") === "删除左右空格")
+        })
+        it('outils.strIsEmpty("zhang") should return false',function(){
+            assert(outils.strIsEmpty("zhang") == false)
+        })
     });
 })

@@ -82,6 +82,10 @@ const OS = getOS()
 
 #### &emsp;&emsp;[deleteLastSelcChar](https://github.com/haohualiangshi/outils/blob/master/deleteLastSelcChar.js) 判断选中最后一位是否是要选中的字符；是就删除并返回删除后的字符串
 
+#### &emsp;[removeStartSpaceAndEnd][removeStartSpaceAndEnd]	移除左右两边的空格
+
+#### &emsp;[strIsEmpty][strIsEmpty]	判断字符串是否为空
+
 ### Support  
 #### &emsp;&emsp;[isSupportWebP][isSupportWebP]&emsp;&emsp;判断浏览器是否支持webP格式图片
 #### 
@@ -150,6 +154,8 @@ const OS = getOS()
 [parseQueryString]:https://github.com/haohualiangshi/outils/blob/master/src/url/parseQueryString.js
 [stringfyQueryString]:https://github.com/haohualiangshi/outils/blob/master/src/url/stringfyQueryString.js
 [deleteLastSelcChar]:https://github.com/haohualiangshi/outils/blob/master/deleteLastSelcChar.js
+[removeStartSpaceAndEnd]:https://github.com/haohualiangshi/outils/blob/master/removeStartSpaceAndEnd.js
+[strIsEmpty]:https://github.com/haohualiangshi/outils/blob/master/strIsEmpty.js
 [noSpecial]:https://github.com/haohualiangshi/outils/blob/master/noSpecial.js
 [pswdInclude]:https://github.com/haohualiangshi/outils/blob/master/pswdInclude.js
 [REM]:https://github.com/haohualiangshi/outils/blob/master/rem.js
